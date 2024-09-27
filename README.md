@@ -1,2 +1,2 @@
 # fccextrackole
-freeCodeCamp Exercise Tracker challenge
+Public repo as required for passing freeCodeCamp Exercise Tracker challenge.
